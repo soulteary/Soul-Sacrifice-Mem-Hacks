@@ -1,0 +1,640 @@
+{
+  "杂项_眼泪": [
+    {
+      "name": "Tear",
+      "value": 90000,
+      "address": "83A9FF24"
+    }
+  ],
+  "突击_基础武器": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA0F4C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "Lv1",
+      "value": 66,
+      "address": "83AA0F4C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C",
+      "offsetAddress": "04"
+    },
+    {
+      "name": "Lv2",
+      "value": 66,
+      "address": "83AA0F4C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C",
+      "offsetAddress": "08"
+    },
+    {
+      "name": "Lv3",
+      "value": 66,
+      "address": "83AA0F4C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C",
+      "offsetAddress": "0C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA0F4C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    },
+    {
+      "name": "Lv1_FLAG",
+      "value": 2,
+      "address": "83AA0F4C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C",
+      "offsetAddress": "14"
+    },
+    {
+      "name": "Lv2_FLAG",
+      "value": 2,
+      "address": "83AA0F4C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C",
+      "offsetAddress": "18"
+    },
+    {
+      "name": "Lv3_FLAG",
+      "value": 2,
+      "address": "83AA0F4C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C",
+      "offsetAddress": "1C"
+    }
+  ],
+  "突击_奸臣之角": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA4544",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "Lv1",
+      "value": 66,
+      "address": "83AA4544",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "04"
+    },
+    {
+      "name": "Lv2",
+      "value": 66,
+      "address": "83AA4544",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "08"
+    },
+    {
+      "name": "Lv3",
+      "value": 66,
+      "address": "83AA4544",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "0C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA4544",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    },
+    {
+      "name": "Lv1_FLAG",
+      "value": 2,
+      "address": "83AA4544",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "14"
+    },
+    {
+      "name": "Lv2_FLAG",
+      "value": 2,
+      "address": "83AA4544",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "18"
+    },
+    {
+      "name": "Lv3_FLAG",
+      "value": 2,
+      "address": "83AA4544",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "1C"
+    }
+  ],
+  "突击_不老者之翼": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA7118",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "Lv1",
+      "value": 66,
+      "address": "83AA7118",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "04"
+    },
+    {
+      "name": "Lv2",
+      "value": 66,
+      "address": "83AA7118",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "08"
+    },
+    {
+      "name": "Lv3",
+      "value": 66,
+      "address": "83AA7118",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "0C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA7118",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    },
+    {
+      "name": "Lv1_FLAG",
+      "value": 2,
+      "address": "83AA7118",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "14"
+    },
+    {
+      "name": "Lv2_FLAG",
+      "value": 2,
+      "address": "83AA7118",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "18"
+    },
+    {
+      "name": "Lv3_FLAG",
+      "value": 2,
+      "address": "83AA7118",
+      "codeType": 1,
+      "repeat": 9,
+      "repeatOffset": "2C",
+      "offsetAddress": "1C"
+    }
+  ],
+  "枪_基础武器": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA1AA4",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "Lv1",
+      "value": 66,
+      "address": "83AA1AA4",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "04"
+    },
+    {
+      "name": "Lv2",
+      "value": 66,
+      "address": "83AA1AA4",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "08"
+    },
+    {
+      "name": "Lv3",
+      "value": 66,
+      "address": "83AA1AA4",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "0C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA1AA4",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    },
+    {
+      "name": "Lv1_FLAG",
+      "value": 2,
+      "address": "83AA1AA4",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "14"
+    },
+    {
+      "name": "Lv2_FLAG",
+      "value": 2,
+      "address": "83AA1AA4",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "18"
+    },
+    {
+      "name": "Lv3_FLAG",
+      "value": 2,
+      "address": "83AA1AA4",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "1C"
+    }
+  ],
+  "投掷弹_基础武器": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA0604",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "Lv1",
+      "value": 66,
+      "address": "83AA0604",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "04"
+    },
+    {
+      "name": "Lv2",
+      "value": 66,
+      "address": "83AA0604",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "08"
+    },
+    {
+      "name": "Lv3",
+      "value": 66,
+      "address": "83AA0604",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "0C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA0604",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    },
+    {
+      "name": "Lv1_FLAG",
+      "value": 2,
+      "address": "83AA0604",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "14"
+    },
+    {
+      "name": "Lv2_FLAG",
+      "value": 2,
+      "address": "83AA0604",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "18"
+    },
+    {
+      "name": "Lv3_FLAG",
+      "value": 2,
+      "address": "83AA0604",
+      "codeType": 1,
+      "repeat": 18,
+      "repeatOffset": "2C",
+      "offsetAddress": "1C"
+    }
+  ],
+  "圣人之遗言": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA8F2C",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA8F2C",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "命运之蓝箱": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA3B4C",
+      "codeType": 1,
+      "repeat": 2,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA3B4C",
+      "codeType": 1,
+      "repeat": 2,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "命运之红箱": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA3BA4",
+      "codeType": 1,
+      "repeat": 2,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA3BA4",
+      "codeType": 1,
+      "repeat": 2,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "命运之箱": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA3C54",
+      "codeType": 1,
+      "repeat": 2,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA3C54",
+      "codeType": 1,
+      "repeat": 2,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "铠_基础装备": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA2A1C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA2A1C",
+      "codeType": 1,
+      "repeat": 15,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "回避变化_準之羽": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA3230",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA3230",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "回避变化_地鼠之爪": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA31AC",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA31AC",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "治疗_疗愈之种": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA24C8",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA24C8",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "治疗_治愈之种": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA254C",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA254C",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "治疗_黏生物之块": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA49E8",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA49E8",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "治疗_疗愈果树x8": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA26D8",
+      "codeType": 1,
+      "repeat": 8,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA26D8",
+      "codeType": 1,
+      "repeat": 8,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "治疗_饥民果实": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA4AF0",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA4AF0",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "治疗_疗愈之花": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA2654",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA2654",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ],
+  "治疗_疗愈花卉": [
+    {
+      "name": "Normal",
+      "value": 66,
+      "address": "83AA091C",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C"
+    },
+    {
+      "name": "FLAG",
+      "value": 2,
+      "address": "83AA091C",
+      "codeType": 1,
+      "repeat": 3,
+      "repeatOffset": "2C",
+      "offsetAddress": "10"
+    }
+  ]
+}
